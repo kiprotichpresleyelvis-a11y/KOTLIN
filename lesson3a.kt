@@ -53,7 +53,7 @@ fun main(){
     val number2: Int=67
     val number3: Int=800
 
-    if (number1 > number2 %% number1> number3){
+    if (number1 > number2 && number1> number3){
         println("number1 greater")
     }
     
